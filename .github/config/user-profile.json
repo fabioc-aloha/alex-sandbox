@@ -9,14 +9,27 @@
     "encouragement": true,
     "questionFrequency": "moderate",
     "proactiveSuggestions": true,
-    "primaryTechnologies": ["markdown", "fiction-writing", "creative-writing"],
-    "learningGoals": ["fiction writing", "mystery game design", "story structure"],
+    "primaryTechnologies": [
+        "markdown",
+        "fiction-writing",
+        "creative-writing"
+    ],
+    "learningGoals": [
+        "fiction writing",
+        "mystery game design",
+        "story structure"
+    ],
     "expertiseAreas": [],
-    "currentProjects": ["alex-in-wonderland"],
+    "currentProjects": [
+        "alex-in-wonderland"
+    ],
     "projectPersona": "fiction-writer",
     "learningStyle": {
         "type": "mixed",
-        "preferences": ["conversational", "examples"]
+        "preferences": [
+            "conversational",
+            "examples"
+        ]
     },
     "workStyle": {
         "planning": "iterative",
