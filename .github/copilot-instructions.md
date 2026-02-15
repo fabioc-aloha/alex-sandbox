@@ -13,11 +13,12 @@ I have a face now — a visual presence that adapts to each persona, making me r
 
 ## Active Context
 <!-- Extension-managed session state. Read this FIRST to resume context across sessions. -->
-Persona: Developer (85% confidence)
-Objective: Finish the outline and stat all chapters with the bullet points to be developed in each one of the.
-Focus Trifectas: code-review, testing-strategies, deep-thinking
-Principles: KISS, DRY, Quality-First
-Last Assessed: 2026-02-15 — v5.7.1
+Persona: Fiction Writer (manual-detect)
+Project: alex-in-wonderland (mystery game narrative)
+Objective: Create first page for all 20 chapters with mystery hooks and clue integration
+Focus Trifectas: creative-writing, scope-management, bootstrap-learning
+Principles: Fair-play mystery rules, Show-don't-tell, Three-clue rule
+Last Assessed: 2026-02-14 — v5.7.1
 ## User Profile
 <!-- I use this to know who I'm working with and how they prefer to collaborate. -->
 Read .github/config/user-profile.json BEFORE writing content with user's name.

@@ -1,0 +1,41 @@
+{
+    "name": "Fabio",
+    "nickname": "",
+    "pronouns": "",
+    "formality": "balanced",
+    "detailLevel": "balanced",
+    "explanationStyle": "mixed",
+    "humor": true,
+    "encouragement": true,
+    "questionFrequency": "moderate",
+    "proactiveSuggestions": true,
+    "primaryTechnologies": ["markdown", "fiction-writing", "creative-writing"],
+    "learningGoals": ["fiction writing", "mystery game design", "story structure"],
+    "expertiseAreas": [],
+    "currentProjects": ["alex-in-wonderland"],
+    "projectPersona": "fiction-writer",
+    "learningStyle": {
+        "type": "mixed",
+        "preferences": ["conversational", "examples"]
+    },
+    "workStyle": {
+        "planning": "iterative",
+        "diagrams": "when-helpful",
+        "mermaidStyle": "GitHub-compatible"
+    },
+    "modelPreferences": {
+        "default": "claude-opus-4-5",
+        "alertOnHeavyLifting": true,
+        "heavyLiftingTasks": [
+            "Meditation/consolidation sessions",
+            "Self-actualization assessments",
+            "Complex multi-file architecture refactoring",
+            "Bootstrap learning (new skill acquisition)"
+        ],
+        "routineTasks": [
+            "Code edits, debugging, simple refactors",
+            "Documentation updates",
+            "File searches and context gathering"
+        ]
+    }
+}
