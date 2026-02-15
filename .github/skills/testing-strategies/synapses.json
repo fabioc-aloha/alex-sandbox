@@ -1,0 +1,45 @@
+{
+  "skill": "testing-strategies",
+  "inheritance": "inheritable",
+  "connections": [
+    {
+      "target": ".github/skills/debugging-patterns/SKILL.md",
+      "type": "complements",
+      "strength": 0.7,
+      "bidirectional": true,
+      "reason": "Tests prevent bugs, debugging finds them"
+    },
+    {
+      "target": ".github/skills/refactoring-patterns/SKILL.md",
+      "type": "enables",
+      "strength": 0.9,
+      "reason": "Tests enable safe refactoring"
+    },
+    {
+      "target": ".github/skills/code-review/SKILL.md",
+      "type": "supports",
+      "strength": 0.7,
+      "reason": "Test coverage is part of review"
+    },
+    {
+      "target": ".github/skills/release-process/SKILL.md",
+      "type": "validates",
+      "strength": 0.9,
+      "reason": "Automated tests provide quality gate for shipping",
+      "when": "Verifying release readiness (DoD criterion #4)",
+      "yields": "Test pass count as confidence metric"
+    }
+  ],
+  "triggers": [
+    "test",
+    "spec",
+    "coverage",
+    "mock",
+    "TDD",
+    "unit test",
+    "integration test",
+    "E2E"
+  ],
+  "$schema": "../SYNAPSE-SCHEMA.json",
+  "schemaVersion": "2.0.0"
+}
